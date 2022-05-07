@@ -7,8 +7,9 @@
 
 * Usage:
     * Install ffmpeg
-    * Clone the repo, or copy the python code into a new .py file.
-    * Change path variables to match your directories: 
-        * original_clip_directory: Location/path of the raw video files
-        * muted_directory: Location/path for muted video files to be saved
-        * orginial, and muted_directory paths can match.
+    * Clone the repo, or copy the python code into a new .py script.
+    * Change directory path variables to match your files directory: 
+        * original_clip_directory: Path of the raw video files
+        * muted_directory: Path for muted video files to be saved
+        * original, and muted_directory paths can match.
+    * Run Python script
